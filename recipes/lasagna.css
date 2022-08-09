@@ -1,0 +1,45 @@
+/* CSS STYLESHEET */
+
+/* * {
+    border: 2px solid red;
+} */
+
+.lasagna_logo {
+    max-width: 50%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    font-family: monospace, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: monospace, sans-serif;
+}
+
+p {
+    font-family: monospace, sans-serif;
+}
+
+ol {
+    font-family: monospace, sans-serif;
+}
+
+ul li {
+    font-family: monospace, sans-serif;
+    margin-bottom: 10px;
+}
+
+ol li {
+    font-family: monospace, sans-serif;
+    margin-bottom: 15px;
+}
+
+a {
+    font-family: monospace, sans-serif;
+}
