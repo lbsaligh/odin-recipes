@@ -1,10 +1,15 @@
 /* CSS STYLESHEET */
 
+
 /* * {
     border: 2px solid red;
 } */
 
-.lasagna_logo {
+a {
+    font-family: monospace, sans-serif;
+}
+
+.casserole_logo {
     max-width: 50%;
     height: auto;
     display: inline-block;
@@ -19,14 +24,11 @@ h1 {
 
 h2 {
     font-size: 30px;
+    color: rgb(0, 0, 0);
     font-family: monospace, sans-serif;
 }
 
 p {
-    font-family: monospace, sans-serif;
-}
-
-ol {
     font-family: monospace, sans-serif;
 }
 
@@ -38,8 +40,4 @@ ul li {
 ol li {
     font-family: monospace, sans-serif;
     margin-bottom: 15px;
-}
-
-a {
-    font-family: monospace, sans-serif;
 }
