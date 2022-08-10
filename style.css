@@ -8,13 +8,17 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
+.odin_logo {
+    max-width: 5%;
+    height: auto;
+}
+
 
 .chef_logo {
-    max-width: 50%;
+    max-width: 40%;
     height: auto;
     color: rgb(0, 0, 0);
-    display: inline-block;
-    margin-top: 50px;
+    margin-top: 10px;
     margin-bottom: 10px;
 }
 
@@ -25,8 +29,7 @@ h1 {
     text-align: center;
     font-family: monospace, sans-serif;
     font-weight: bolder;
-    border-top: 20px;
-    border-bottom: 20px;
+    margin: 15px;
 }
 
 h2 {
@@ -34,13 +37,15 @@ h2 {
     color: rgb(0, 0, 0);
     text-align: center;
     font-family: monospace, sans-serif;
+    margin: 6px;
 }
 
 h3 {
     font-size: 25px;
     color: rgb(0, 0, 0);
     text-align: center;
-    font-family: monospace, sans-serif;;
+    font-family: monospace, sans-serif;
+    margin-top: 40px;
 }
 
 ul {
@@ -52,7 +57,6 @@ li {
     color: rgb(0, 0, 0);
     font-size: 20px;
     text-align: center;
-    display: inline;
-    border: 2px;
-    padding: 0.5em;
+    display: inline-block;
+    margin: 6px;
 }
