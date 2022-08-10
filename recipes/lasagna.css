@@ -4,6 +4,11 @@
     border: 2px solid red;
 } */
 
+.odin_logo {
+    max-width: 5%;
+    height: auto;
+}
+
 .lasagna_logo {
     max-width: 50%;
     height: auto;
