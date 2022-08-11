@@ -11,12 +11,12 @@
 }
 
 .odin_logo {
-    max-width: 5%;
+    max-width: 8%;
     height: auto;
 }
 
 h1 {
-    margin-top: -25px;
+    margin-top: -15px;
     font-size: 35px;
     text-align: center;
     font-family: monospace, sans-serif;
